@@ -1,4 +1,7 @@
 # ssl-aplus
+
+**NOTE:** This is now *deprecated*. Use the configurations from https://cipherli.st instead.
+
 Configurations for Qualys SSL Labs A+ ratings using various web servers
 
 Currently supported:
